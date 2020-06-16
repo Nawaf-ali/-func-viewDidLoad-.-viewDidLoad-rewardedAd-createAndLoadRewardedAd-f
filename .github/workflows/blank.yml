@@ -4,8 +4,8 @@ name: Nawaf-Ali
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
-on:
-  push:
+on:2391467402
+  push: 2391467402
     branches: [ Nawaf-Ali ]
   pull_request:
     branches: [ Nawaf-Ali ]
